@@ -1,0 +1,17 @@
+body{
+	margin: 0;
+	font-family: Helvetica
+
+}
+#quote
+{
+	heigh: 500px;
+	width: 500px;
+}
+#container{
+
+	display:flex;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+}
